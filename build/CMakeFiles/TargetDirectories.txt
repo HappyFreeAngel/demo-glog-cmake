@@ -1,3 +1,0 @@
-/var/server/project/t/build/CMakeFiles/rebuild_cache.dir
-/var/server/project/t/build/CMakeFiles/edit_cache.dir
-/var/server/project/t/build/CMakeFiles/demo01.dir

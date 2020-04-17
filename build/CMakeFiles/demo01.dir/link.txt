@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/demo01.dir/1.cpp.o  -o demo01 -lglog 
